@@ -2,6 +2,6 @@ bind n scrollline 10
 bind e scrollline -10
 bind / fillcmdline find
 bind ? fillcmdline find -?
-bind n findnext 1
-bind N findnext -1
+bind h findnext 1
+bind H findnext -1
 bind ,<Space> nohlsearch
