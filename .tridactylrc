@@ -1,5 +1,10 @@
 bind n scrollline 10
 bind e scrollline -10
+bind m scrollpx -50
+bind i scrollpx 50
+bind M back
+bind I forward
+
 bind / fillcmdline find
 bind ? fillcmdline find -?
 bind h findnext 1
